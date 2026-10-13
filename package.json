@@ -1,0 +1,10 @@
+{
+"name": "obanai-apis",
+"version": "1.1.0",
+"description": "Cliente; para a Obanai APIs",
+"main": "index.js",
+"types": "index.d.ts",
+"files": ["index.js", "index.d.ts", "src"],
+"engines": { "node": ">=18" },
+"license": "MIT"
+}
